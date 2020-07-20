@@ -2,6 +2,15 @@
 
 https://jsonlint.com/
 
+Create a web app using Flask framework:
+
+It will get the Bitcoin price for the user.
+Use API with JSON response for getting the price.
+Suggested API: CoinDesk (https://www.coindesk.com/)
+Display your result in a styled web page.
+Plus (Optional) : Try to deploy your app on a cloud server if possible. [Heroku/Netlify]
+Due Date: 23 July, 2020
+
 
 response:
 
